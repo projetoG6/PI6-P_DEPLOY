@@ -1,4 +1,4 @@
-<h1>INTEGRANTES DO PROJETO</h1>
+<h1>DESENVOLVEDORES</h1>
   
   
   
